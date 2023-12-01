@@ -36,7 +36,7 @@ def add_competitor(name):
     return jsonify(competitors), 201
 
 # ------------------------- READ / GET -------------------------
-@app.route('/get/<int:id>/')
+@app.route('/read/<int:id>/')
 def get_competitor(id=0):
     '''
     This method takes in an id and reads the name of that competitor.
@@ -93,6 +93,6 @@ if __name__ == '__main__':
 # ------------------------- URLS -------------------------
 # Index URL:            http://localhost:5000/
 # Create / Post:        http://localhost:5000/create/<name>
-# Read / Get:           http://localhost:5000/get/<id>
+# Read / Get:           http://localhost:5000/read/<id>
 # Update / Put:         http://localhost:5000//update/<id>/<name>
 # Delete:               http://localhost:5000/delete/<id>
