@@ -9,11 +9,11 @@ Add an entry named Hannah.
 <img src="https://github.com/david125tran/flask_rest_api/blob/main/images/create.png" width="70%">
 
 # Read Functionality:  
-Read "id" 3.
+Read "id" 3.  
 <img src="https://github.com/david125tran/flask_rest_api/blob/main/images/read.png" width="70%">
   
 # Update Functionality:  
-Update "id" 5 to Joey.
+Update "id" 5 to Joey.  
 <img src="https://github.com/david125tran/flask_rest_api/blob/main/images/update.png" width="70%"> 
 
 # Delete Functionality:  
