@@ -1,6 +1,13 @@
 # flask_rest_api  
 This is a simple web API that I built with Flask with full CRUD functionality.  
-
+  
+# URLs:
+Index URL:            http://localhost:5000/
+Create / Post:        http://localhost:5000/create/<name>
+Read / Get:           http://localhost:5000/read/<id>
+Update / Put:         http://localhost:5000//update/<id>/<name>
+Delete:               http://localhost:5000/delete/<id>
+  
 # Index:
 <img src="https://github.com/david125tran/flask_rest_api/blob/main/images/index.png" width="70%">
   
