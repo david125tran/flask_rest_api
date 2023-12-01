@@ -3,7 +3,6 @@ This is a simple web API that I built with Flask with full CRUD functionality.
 
 # Index:
 <img src="https://github.com/david125tran/flask_rest_api/blob/main/images/index.png" width="30%">
-![Index](<img src="https://github.com/david125tran/flask_rest_api/blob/main/images/index.png" width="30%">)  
   
 # Create Functionality:
 ![Create](https://github.com/david125tran/flask_rest_api/blob/main/images/create.png)  
